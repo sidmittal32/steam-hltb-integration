@@ -90,7 +90,7 @@ The **Steam HLTB Integration Extension** is a Chrome extension designed to enhan
 5. **Run the Flask Server:**
 
    ```bash
-   python app.py
+   python server.py
    ```
 
    The server will start on `http://0.0.0.0:5000`. Ensure this server is running whenever you use the Chrome extension.
@@ -118,7 +118,7 @@ The **Steam HLTB Integration Extension** is a Chrome extension designed to enhan
 
 1. **Ensure Backend is Running:**
 
-   Make sure the Flask server is active by running `python app.py` in the `backend` directory.
+   Make sure the Flask server is active by running `python server.py` in the `backend` directory.
 
 2. **Browse Steam:**
 
@@ -147,7 +147,7 @@ The **Steam HLTB Integration Extension** is a Chrome extension designed to enhan
 ```
 steam-hltb-integration/
 ├── backend/
-│   ├── app.py
+│   ├── server.py
 │   ├── requirements.txt
 ├── extension/
 │   ├── icons/
