@@ -81,8 +81,6 @@ The **Steam HLTB Integration Extension** is a Chrome extension designed to enhan
    pip install -r requirements.txt
    ```
 
-   *If `requirements.txt` is not present, you can install dependencies manually:*
-
    ```bash
    pip install Flask howlongtobeatpy flask-cors
    ```
