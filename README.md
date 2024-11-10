@@ -1,6 +1,6 @@
 # Steam HLTB Integration Extension
 
-![Project Logo](extension\icons\icon128.png)
+![Project Logo](./extension/icons/icon128.png)
 
 ## Table of Contents
 
@@ -132,15 +132,15 @@ The **Steam HLTB Integration Extension** is a Chrome extension designed to enhan
 
 ### 1. Extension Icon in Chrome
 
-![Extension Icon](screenshots\screenshot1.png)
+![Extension Icon](./screenshots/screenshot1.png)
 
 ### 2. HLTB Data on Steam Game Page
 
-![HLTB Data Display](screenshots\screenshot2.png)
+![HLTB Data Display](./screenshots/screenshot2.png)
 
 ### 3. Backend Server Running
 
-![Backend Server](screenshots\screenshot3.png)
+![Backend Server](./screenshots/screenshot3.png)
 
 ## Project Structure
 
